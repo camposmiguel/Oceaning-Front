@@ -1,0 +1,12 @@
+.btnBlue{
+    position: absolute;
+    width: 359px;
+    height: 84px;
+    left: 1001px;
+    top: 679px;
+    border-radius: 50px;
+    background: linear-gradient(90deg, #15FFAB 0%, #15F1FF 100%);
+}
+
+
+

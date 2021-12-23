@@ -1,0 +1,108 @@
+.textOne{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 111px;
+    top: 248px;
+    
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 38px;
+    line-height: 57px;
+    background-color: #ffda15;
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    background-image: linear-gradient(90deg, #FFDA15 -2.94%, #FFA215 105.98%);
+    background-color: conic-gradient(90deg, #FFDA15 -2.94%, #FFA215 105.98%);;
+}
+
+.textTwo{
+    position: absolute;
+    width: 992px;
+    height: 225px;
+    left: 111px;
+    top: 325px;
+
+    font-family: 'Poppins', sans-serif;;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 66px;
+
+    color: #FFFFFF;
+}
+
+.textDay{
+    position: absolute;
+    width: 151px;
+    height: 60px;
+    left: 110px;
+    top: 700px;
+    line-height: 66px;
+    text-align: left;
+
+    
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 33px;
+    
+    color: #B5B2C7;
+}
+
+.rectangle{
+    position: absolute;
+    width: 2px;
+    height: 126px;
+    left: 220px;
+    top: 640px;
+}
+
+.compartilhe{
+    position: absolute;
+    width: 143px;
+    height: 15px;
+    left: 1128px;
+    top: 84px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+
+.btnWrite{
+    position: absolute;
+    width: 219px;
+    height: 36px;
+    margin-left: 594px;
+    margin-top: 702px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800px;
+    font-size: 24px;
+    text-transform: uppercase; 
+    color: red;
+    line-height: 36px;
+}
+
+.nameTable{
+font-family: Poppins,  sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+padding-left: 50px;
+
+color: #131218;
+}
+
+.emailTable{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+padding-left: 600px;
+text-align: left;
+
+
+color: #131218;
+}
+

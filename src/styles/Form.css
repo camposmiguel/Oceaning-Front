@@ -1,0 +1,35 @@
+.formName{
+    position: absolute;
+    width: 329px;
+    height: 60px;
+    left: 106px;
+    top: 698px;
+    color: green;
+
+}
+
+.inputName{
+
+    position: absolute;
+    width: 329px;
+    height: 60px;
+    left: 106px;
+    top: 698px;
+
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+
+    color: #6A6879;
+}
+
+
+
+
+input{
+    border: none;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid;
+}
